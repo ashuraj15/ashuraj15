@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashuraj15
-- 👀 I’m interested in Web Development,DSA and Competitive Programming
-- 🌱 I’m currently learning DSA
+- 👀 I’m interested in Web Development, DSA and Competitive Programming
+- 🌱 I’m currently learning DSA, JavaScript
 - 💞️ I’m looking to collaborate on Web Development, DSA
 - 📫 How to reach me ...
 
